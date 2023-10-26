@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coffee
+  - coke
+  - spicySauce
+  - twice
+  - once
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - Background
+  - Player
+  - Sprites
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 83721701
+    locked: 0
+  - name: Player
+    uniqueID: 1095623137
+    locked: 0
+  - name: Sprites
+    uniqueID: 3867418409
+    locked: 0
+  - name: Camera
+    uniqueID: 778430497
+    locked: 0
